@@ -2,7 +2,6 @@ namespace RoleplayGame
 {
     interface IAtaque
     {
-        int AttackValue {get;};
-
+        int AttackValue { get; }
     }
 }
